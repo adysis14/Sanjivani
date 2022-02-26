@@ -1,4 +1,4 @@
-# Medical-Express
+# Sanjivani
 Hello all, I am **Aadya Singh**. This is my project submission for Future Ready Talent Internship.
 
 **Industry:**
