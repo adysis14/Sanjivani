@@ -1,5 +1,5 @@
 # Sanjivani
-Hello all, We are **Aadyaa Srivastava & Aadya Singh**. This is our project submission for Future Ready Talent Internship.
+Hello all, We are **Aadya Singh & Aadyaa Srivastava**. This is our project submission for Future Ready Talent Internship.
 
 **Industry:**
 **Health**
